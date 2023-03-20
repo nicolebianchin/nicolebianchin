@@ -1,6 +1,7 @@
 ### Olá 👋
 
 - :computer: Atuo como Software Engineer III na Squad FIDC da Tribo de Empréstimos
+- 💬 Você me encontra no Slack pelo user @nicole.bianchin
 - :hammer_and_wrench: Tenho experiência principalmente na área de backend, com as tecnologias e linguagens abaixo:
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -43,4 +44,4 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)&nbsp;
 
-- 💬 Você me encontra no Slack pelo user @nicole.bianchin
+
