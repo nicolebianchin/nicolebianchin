@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- :computer: Atuo como Software Engineer III na Squad FIDC da Tribo de Empréstimos
+- :computer: Atuo como Senior Software Engineer na Tribo de Empréstimos
 - 💬 Você me encontra no Slack pelo user @nicole.bianchin
 - :hammer_and_wrench: Tenho experiência principalmente na área de backend, com as tecnologias e linguagens abaixo:
 
